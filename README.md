@@ -6,6 +6,8 @@ WebShield is a working prototype of an automated web application vulnerability s
 
 This is an academic project. It is not a substitute for a professional security assessment.
 
+**Demo URL**
+webshield-three.vercel.app
 ---
 
 ## What works
